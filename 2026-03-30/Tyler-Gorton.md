@@ -1,0 +1,2 @@
+- Coding Contest: Not Yet
+- Ideal Temperature: 65-70 ºF
